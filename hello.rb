@@ -1,0 +1,2 @@
+puts "HELLO WORLD"
+print RUBY_VERSION
